@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":2,"expanded":false,"name":"HUB","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":960},
+{"id":3,"expanded":false,"name":"CASA","order":3,"parentId":0,"scrollX":1092,"scrollY":604},
+{"id":4,"expanded":false,"name":"ElementalEarth","order":4,"parentId":0,"scrollX":1092,"scrollY":604},
+{"id":5,"expanded":false,"name":"GELO","order":5,"parentId":0,"scrollX":1092,"scrollY":604},
+{"id":6,"expanded":false,"name":"Fogo","order":6,"parentId":0,"scrollX":1092,"scrollY":604},
+{"id":7,"expanded":false,"name":"Fim do jogo","order":7,"parentId":0,"scrollX":1092,"scrollY":604}
+]

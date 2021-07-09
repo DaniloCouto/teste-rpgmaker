@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":39,"description":"Um tronco de uma arvore rara da amazonia\nPode controlar a terra","etypeId":1,"traits":[{"code":31,"dataId":6,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":68,"name":"Pirokasduralis","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":2,"animationId":71,"description":"Após muito isolamento e muito tempo sem utilizar \no Caule, o mesmo se tornou gélido","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":65,"name":"Caule Gélido","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":3,"animationId":66,"description":"Um Kermit submeteu seu Caule a muita fricção,\nresultando neste perigoso caule incandescente","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":64,"name":"Caule Incandescente","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"Após muita meditação, um Kermit conseguiu transcender a carne, fazendo seu caule ser incorpóreo, como o vento ","etypeId":1,"traits":[{"code":31,"dataId":7,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":71,"name":"Caule Incorpório","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":0,"description":"Após coletar todos os caules, o Kermit supremo ","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":72,"name":"Omni-Caule","note":"","params":[0,0,40,0,0,0,0,0],"price":0,"wtypeId":0}
+]
